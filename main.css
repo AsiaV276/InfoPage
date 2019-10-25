@@ -1,0 +1,28 @@
+/*@media (max-width: 350px) {
+     #image {
+         width: ;
+     }
+ }*/
+ #main {
+     border-radius: 10px;
+     background-color: rgba(45, 45, 45, 0.1);
+     padding: 10px;
+ }
+
+ #title {
+     text-align: center;
+ }
+
+ #img-div {
+    padding: 15px;
+    background-color: white;
+ }
+
+ #image {
+     max-width: 100%;
+     height: auto;
+ }
+
+ #tribute-info {
+     text-align: center;
+ }
